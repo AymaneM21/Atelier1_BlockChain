@@ -1,9 +1,9 @@
-# Atelier1_BlockChain
+# Lab1_BlockChain
 
-Ce dépôt contient des implémentations de deux concepts fondamentaux de la technologie blockchain : l'Arbre de Merkle et la Preuve de Travail. Ces exercices sont codés en Python et incluent des démonstrations pratiques pour montrer comment ces concepts fonctionnent.
+This repository contains implementations of two fundamental concepts in blockchain technology: the Merkle Tree and Proof of Work. These exercises are coded in Python and include demonstrations of how these concepts work with practical examples.
 
 **Université Abdelmalek Essaadi** 
 - Faculté des Sciences et Techniques de Tanger
 - Département Génie Informatique
-- Master : AISD
+- Master : AIDS
 - Pr. Ikram Ben abdel ouahab
